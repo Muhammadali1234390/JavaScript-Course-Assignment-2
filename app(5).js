@@ -1,1 +1,1 @@
-alert("PIZZA\NPIZZ\NPIZ\NPI\NP")
+alert("PIZZA\nPIZZ\nPIZ\nPI\nP")
